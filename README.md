@@ -1,7 +1,7 @@
 ### Hi. 😊 
 
 ## About
-**Living in** San Francisco, CA // **Pronouns**: she/her // **Working at** [Zipper] (https://www.joinzipper.com)
+**Living in** San Francisco, CA // **Pronouns**: she/her // **Working at** [Zipper](https://www.joinzipper.com)
 
 <!--
 Currently
