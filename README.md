@@ -1,35 +1,36 @@
-### Hi. 😊 
+### Hi! 😊 Let me quickly introduce myself...
 
-## About
-**Living in** San Francisco, CA // **Pronouns**: she/her // **Working at** [Zipper](https://www.joinzipper.com)
+My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am currently living in San Francisco, specifically **Duboce Triangle** aka The Best Neighborhood in the Bay™️. Read on to learn more! 💁‍♀️ 
 
-<!--
-Currently
-- Working on
-- Location
-- Pronouns
-Short Term Goals
-Medium Term Goals
-Long Term Goals
+## Currently
+- Working at [Zipper](https://www.joinzipper.com) as a Software Development Intern. 
+> We are building a platform for coaches of endurance sports to easily and efficiently manage their coaching businesses and fill their rosters. If you're a coach and are interested in joining the beta, [email me!](mailto:alex@joinzipper.com)
+- Learning **Typescript** and **Java** + studying my 🍑 off reviewing data structures, algorithms, etc... you know the drill.
 
-Tech Stack
-Social
-Website, Strava, linkedin
+## Goals
+`Short-Term`
+- 👩‍💻 Finish the MVP of my personal website
+- 🏅 Complete AWS certification
+- 🛳 Ship my first frontend TypeScript code to the Zipper platform
 
--->
+`Medium-Term`
 
+`Long-Term`
 
-<!--
-**acameron724/acameron724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+## Tech Products I Admire
+- Notion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social & Contact
+- LinkedIn
+- Strava
+- Portfolio `(Coming soon!)`
+- [Email](mailto:acameron724@gmail.com)
+
+## Outside of Coding...
+- 🏃‍♀️ Running for [Idaho Afoot](www.idahoafoot.com)
+- 🏔 Hiking
+- 🗺 Traveling
+- 🍷 Eating & Drinking (READ: any food in the Mission, wine, and [SPRO](https://www.google.com/maps/place/SPRO+-+Mission+Dolores%2FCastro/@37.7627973,-122.4286748,15z/data=!4m5!3m4!1s0x0:0x8f3d832962c9ee77!8m2!3d37.7627975!4d-122.4286748?hl=en) espresso)
+
