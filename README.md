@@ -1,6 +1,6 @@
 ### Hi! 😊 Allow me to quickly introduce myself...
 
-My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am currently living in San Francisco, specifically **Duboce Triangle** aka The Best Neighborhood in the Bay™️. Read on to learn more! 💁‍♀️ 
+My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am currently living in San Francisco, specifically **Duboce Triangle** aka The Best Neighborhood in the Bay™️. Read on to learn more! ⬇️  
 
 ## Currently
 - Working at [Zipper](https://www.joinzipper.com) as a Software Development Intern
