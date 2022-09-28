@@ -3,9 +3,9 @@
 My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am currently living in San Francisco, specifically **Duboce Triangle** aka The Best Neighborhood in the Bay™️. Read on to learn more! 💁‍♀️ 
 
 ## Currently
-- Working at [Zipper](https://www.joinzipper.com) as a Software Development Intern. 
+- Working at [Zipper](https://www.joinzipper.com) as a Software Development Intern
 > We are building a platform for coaches of endurance sports to easily and efficiently manage their coaching businesses. If you're a coach and are interested in joining the beta, [email me!](mailto:alex@joinzipper.com)
-- Learning **Typescript** and **Java** + studying my 🍑 off reviewing data structures, algorithms, etc... you know the drill.
+- Learning **Typescript** and **Java** + studying my 🍑 off reviewing data structures, algorithms, etc... you know the drill
 
 ## Goals
 `Short-Term`
@@ -73,7 +73,7 @@ My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am 
   <img src="https://user-images.githubusercontent.com/102175979/192666279-8f236888-d5c2-46b6-ac75-0f83a246f251.jpeg" width="48">
 </a>
 
-## Social & Contact
+## Contact & Social
 <a href="mailto:acameron724@gmail.com">
   <img src="https://user-images.githubusercontent.com/102175979/192669958-501351ca-3b21-4b74-aacb-856b34d90fa3.png" width="48">
 </a>
