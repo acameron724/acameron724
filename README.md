@@ -88,5 +88,5 @@ My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am 
 - 🏃‍♀️ Running for [Idaho Afoot](www.idahoafoot.com)
 - 🏔 Hiking
 - 🗺 Traveling
-- 🍷 Eating & Drinking (READ: any food in the Mission, wine, and [SPRO](https://www.google.com/maps/place/SPRO+-+Mission+Dolores%2FCastro/@37.7627973,-122.4286748,15z/data=!4m5!3m4!1s0x0:0x8f3d832962c9ee77!8m2!3d37.7627975!4d-122.4286748?hl=en) espresso)
+- 🍷 Eating & Drinking (read: any food in the Mission, wine, and [SPRO](https://www.google.com/maps/place/SPRO+-+Mission+Dolores%2FCastro/@37.7627973,-122.4286748,15z/data=!4m5!3m4!1s0x0:0x8f3d832962c9ee77!8m2!3d37.7627975!4d-122.4286748?hl=en) espresso)
 
