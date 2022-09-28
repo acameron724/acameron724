@@ -7,22 +7,6 @@ My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am 
 > We are building a platform for coaches of endurance sports to easily and efficiently manage their coaching businesses. If you're a coach and are interested in joining the beta, [email me!](mailto:alex@joinzipper.com)
 - Learning **Typescript** and **Java** + studying my 🍑 off reviewing data structures, algorithms, etc... you know the drill
 
-## Goals
-`Short-Term`
-- 👩‍💻 Finish the MVP of my personal website
-- 🏅 Complete AWS certification
-- 🛳 Ship my first frontend TypeScript code to the Zipper web app
-
-`Medium-Term`
-- 💼 Become a senior-level software developer
-- 🤹‍♀️ Get great at Figma
-- 📈 Become a mentor at an organization that helps bring more women into the SDE field
-
-`Long-Term`
-- 📣 Lead an engineering team building a product I'm passionate about
-- 💡 Build a product from scratch that someone, outside of myself, finds useful (ask me about my ideas!)
-- 👯‍♀️ Leave a legacy of diversifying hiring practices and bringing more women and people of color onto the teams I work on
-
 ## Tech Stack
 <a href="https://www.javascript.com/">
   <img src="https://user-images.githubusercontent.com/102175979/192666955-ead0ad16-6b2f-4f16-a431-dd4ae78a23ba.png" width="48">
@@ -52,6 +36,21 @@ My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am 
   <img src="https://user-images.githubusercontent.com/102175979/192667732-7d8e93b7-4c4a-45c1-a7fb-a54a0f03d639.png" width="72">
 </a>
 
+## Goals
+`Short-Term`
+- 👩‍💻 Finish the MVP of my personal website
+- 🏅 Complete AWS certification
+- 🛳 Ship my first frontend TypeScript code to the Zipper web app
+
+`Medium-Term`
+- 💼 Become a senior-level software developer
+- 🤹‍♀️ Get great at Figma
+- 📈 Become a mentor at an organization that helps bring more women into the SDE field
+
+`Long-Term`
+- 📣 Lead an engineering team building a product I'm passionate about
+- 💡 Build a product from scratch that someone, outside of myself, finds useful (ask me about my ideas!)
+- 🫱🏾‍🫲🏻 Leave a legacy of diversifying hiring practices and bringing more women and people of color onto the teams I work on
 
 ## Tech Products I Admire
 <a href="https://www.notion.so/product">
