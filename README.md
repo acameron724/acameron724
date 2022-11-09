@@ -40,7 +40,7 @@ My name is **Alexandra (Alex) Cameron**. My pronouns are **she/her/hers**. I am 
 `Short-Term`
 - 👩‍💻 Finish the MVP of my personal website
 - 🏅 Complete AWS certification
-- 🛳 Ship my first frontend TypeScript code to the Zipper web app
+- 🛳 Ship 5 complete components to the live Zipper web app
 
 `Medium-Term`
 - 💼 Become a senior-level software developer
