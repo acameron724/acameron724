@@ -1,13 +1,17 @@
-### Hi! 😊 Allow me to quickly introduce myself...
+### Hi! 😊 Thanks for checking out my profile.
 
-My name is **Alexandra (Alex) Cameron** (she/her/hers). I am currently living in San Francisco, specifically **Duboce Triangle** and am honing my skills as a newly minted software developer. Read on to learn more! ⬇️  
+My name is **Alexandra (Alex) Cameron** (she/her). Keep scrolling to see what I'm working on ⬇️
 
 ## Currently
-- Working at [Zipper](https://www.joinzipper.com) as a Software Development Intern
-> We are building a platform for coaches of endurance sports to easily and efficiently manage their coaching businesses. If you're a coach and are interested in joining the beta, [email me!](mailto:alex@joinzipper.com)
-- Learning **Typescript** and **Java** + studying my 🍑 off reviewing data structures, algorithms, etc... you know the drill
+- Living in San Francisco
+- Working as a data scientist at [Momentum Commerce](https://www.momentumcommerce.com/)
+- Honing my **Python** and **SQL** skills
+- Working on a couple personal coding projects using **React** and **NodeJS**
 
 ## Tech Stack
+<a href="https://www.python.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48">
+</a>
 <a href="https://www.javascript.com/">
   <img src="https://user-images.githubusercontent.com/102175979/192666955-ead0ad16-6b2f-4f16-a431-dd4ae78a23ba.png" width="48">
 </a>
@@ -39,18 +43,18 @@ My name is **Alexandra (Alex) Cameron** (she/her/hers). I am currently living in
 ## Goals
 `Short-Term`
 - 👩‍💻 Finish the MVP of my personal website
-- 🏅 Complete AWS certification
-- 🐍 Find an open-source project using a Python backend to practice my Python coding skills 
+- 🏅 Complete AWS and AMC certifications
+- 🐍 Continue to grow my Python skillset in my current role
 
 `Medium-Term`
-- 💼 Become a senior-level software developer
-- 🤹‍♀️ Get great at Figma
-- 📈 Become a mentor at an organization that helps bring more women into the SDE field
+- 💼 Transition from data scientist to software developer
+- 👩‍💻 Add a blog section to my personal website and publish my first post
+- 📈 Become a mentor to other women in STEM
 
 `Long-Term`
 - 📣 Lead an engineering team building a product I'm passionate about
-- 💡 Build a product from scratch that someone, outside of myself, finds useful (ask me about my ideas!)
-- 🫱🏾‍🫲🏻 Leave a legacy of diversifying hiring practices and bringing more women and people of color onto the teams I work on
+- 👩‍💻 Integrate the Calendly and Strava APIs into my personal website
+- 🫱🏾‍🫲🏻 Make tangible progress in diversifying hiring practices and bringing more women and people of color onto teams I work on
 
 ## Tech Products I Admire
 <a href="https://www.notion.so/product">
@@ -85,7 +89,7 @@ My name is **Alexandra (Alex) Cameron** (she/her/hers). I am currently living in
 
 ## Outside of Coding...
 - 🏃‍♀️ Running for [Idaho Afoot](www.idahoafoot.com)
-- 🏔 Hiking
+- 🏔 Hiking + cycling
 - 🗺 Traveling
-- 🍷 Eating & Drinking (read: any food in the Mission, wine, and [SPRO](https://www.google.com/maps/place/SPRO+-+Mission+Dolores%2FCastro/@37.7627973,-122.4286748,15z/data=!4m5!3m4!1s0x0:0x8f3d832962c9ee77!8m2!3d37.7627975!4d-122.4286748?hl=en) espresso)
+- 🍷 Eating and drinking my way through SF
 
