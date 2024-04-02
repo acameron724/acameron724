@@ -1,11 +1,12 @@
-### Hi! 😊 Thanks for checking out my profile.
+### Hi! 😊 Thanks for being here.
 
 My name is **Alexandra (Alex) Cameron** (she/her). Keep scrolling to see what I'm working on ⬇️
 
 ## Currently
 - Living in San Francisco
 - Working as a data scientist at [Momentum Commerce](https://www.momentumcommerce.com/)
-- Honing my **Python** and **SQL** skills
+- Perfecting my **Python** and **SQL** skills
+- Obsessing over the work I get to do in dbt
 - Working on a couple personal coding projects using **React** and **NodeJS**
 
 ## Tech Stack
@@ -15,8 +16,8 @@ My name is **Alexandra (Alex) Cameron** (she/her). Keep scrolling to see what I'
 <a href="https://www.javascript.com/">
   <img src="https://user-images.githubusercontent.com/102175979/192666955-ead0ad16-6b2f-4f16-a431-dd4ae78a23ba.png" width="48">
 </a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://user-images.githubusercontent.com/102175979/192666830-75caaaf1-7644-4077-95f9-525ad8cad6b5.png" width="48">
+<a href="https://www.getdbt.com/">
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="48">
 </a>
 <a href="https://reactjs.org/">
   <img src="https://user-images.githubusercontent.com/102175979/192666762-9bf4a934-45b7-4218-a673-bf5582607118.png" width="48">
@@ -43,11 +44,11 @@ My name is **Alexandra (Alex) Cameron** (she/her). Keep scrolling to see what I'
 ## Goals
 `Short-Term`
 - 👩‍💻 Finish the MVP of my personal website
-- 🏅 Complete AWS and AMC certifications
+- 🏅 Complete advanced dbt certifications
 - 🐍 Continue to grow my Python skillset in my current role
 
 `Medium-Term`
-- 💼 Transition from data scientist to software developer
+- 💼 Transition from data scientist to data engineer / analytics engineer
 - 👩‍💻 Add a blog section to my personal website and publish my first post
 - 📈 Become a mentor to other women in STEM
 
