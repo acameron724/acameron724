@@ -13,6 +13,9 @@ My name is **Alexandra (Alex) Cameron** (she/her). Keep scrolling to see what I'
 <a href="https://www.python.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48">
 </a>
+<a href="https://www.snowflake.com/en/">
+  <img src="https://i0.wp.com/dbaontap.com/wp-content/uploads/2021/02/periscope-data-partners-snowflake-computing-logo-clipart-snowflake-computing-png-840_873.jpg?ssl=1" width="48">
+</a>
 <a href="https://www.javascript.com/">
   <img src="https://user-images.githubusercontent.com/102175979/192666955-ead0ad16-6b2f-4f16-a431-dd4ae78a23ba.png" width="48">
 </a>
@@ -91,6 +94,6 @@ My name is **Alexandra (Alex) Cameron** (she/her). Keep scrolling to see what I'
 ## Outside of Coding...
 - 🏃‍♀️ Running for [Idaho Afoot](www.idahoafoot.com)
 - 🏔 Hiking + cycling
-- 🗺 Traveling
+- 🥐 Baking
 - 🍷 Eating and drinking my way through SF
 
